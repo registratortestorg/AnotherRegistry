@@ -3,3 +3,4 @@ uuid = "23a5b13b-685a-48af-83c5-6c0fa14daa8c"
 repo = "https://github.com/registratortestorg/AnotherRegistry"
 
 [packages]
+c21cdcaf-0d93-4d92-8cdb-99636d8a79d4 = { name = "SampleDash", path = "S/SampleDash" }
