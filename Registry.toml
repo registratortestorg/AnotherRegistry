@@ -3,3 +3,4 @@ uuid = "23a5b13b-685a-48af-83c5-6c0fa14daa8c"
 repo = "https://github.com/registratortestorg/AnotherRegistry"
 
 [packages]
+ab9f4eab-86c3-425a-b258-4480ef374dae = { name = "SnehMyPackage", path = "S/SnehMyPackage" }
