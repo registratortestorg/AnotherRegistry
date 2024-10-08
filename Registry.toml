@@ -3,3 +3,4 @@ uuid = "23a5b13b-685a-48af-83c5-6c0fa14daa8c"
 repo = "https://github.com/registratortestorg/AnotherRegistry"
 
 [packages]
+39abe10b-433b-5dbd-92d4-e302a9df00cd = { name = "MySQL", path = "M/MySQL" }
