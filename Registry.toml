@@ -3,3 +3,4 @@ uuid = "23a5b13b-685a-48af-83c5-6c0fa14daa8c"
 repo = "https://github.com/registratortestorg/AnotherRegistry"
 
 [packages]
+7876af07-990d-54b4-ab0e-23690620f79b = { name = "PrivateExample", path = "P/PrivateExample" }
