@@ -1,0 +1,7 @@
+[0]
+AMDGPU = "21141c5a-9bdb-4563-92ae-f87d6854732e"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+Enzyme = "7da242da-08ed-463a-9acd-ee780be4f1d9"
+MPI = "da04e1cc-30fd-572f-bb4f-1f8673147195"
+NCCL = "3fe64909-d7a1-4096-9b7d-7a0f12cf0f6b"
+cuDNN = "02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd"
