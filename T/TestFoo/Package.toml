@@ -1,0 +1,4 @@
+name = "TestFoo"
+uuid = "59f89287-af9b-403b-8b2b-07a76ab69732"
+repo = "https://github.com/JuliaComputing/JHubRegistratorTest.git"
+subdir = "TestFoo"
