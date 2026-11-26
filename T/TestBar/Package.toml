@@ -1,0 +1,4 @@
+name = "TestBar"
+uuid = "e4548437-a13c-408a-aa50-7ad9b12a31b8"
+repo = "https://github.com/JuliaComputing/JHubRegistratorTest.git"
+subdir = "TestBar"
